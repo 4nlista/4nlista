@@ -1,24 +1,16 @@
 
 <div align="center">
-
 <img src="./wallpaperswide.com-spectrum-of-the-sky-wallpaper-2560x1440.jpg" width="100%" alt="Arsenal - North London Forever" />
-
-### 🔴⚪ Arsenal supporter | Software Engineering Student
-
-
+### 🔴⚪ Arsenal 
 </div>
-
 ---
 
 ### About Me
 
-- Software Engineering student at FPT University.
+- Software Engineering.
 - Interested in software development and AI.
-- Building projects and improving my skills every day.
-
 
 ## Tech Stack
-
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -53,9 +45,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
 <div align="center">
-
 **COYG — Come On You Gunners!**
-
 </div>
