@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./arsenal.jpg" width="100%" alt="Arsenal - North London Forever" />
+<img src="./wallpaperswide.com-spectrum-of-the-sky-wallpaper-2560x1440.jpg" width="100%" alt="Arsenal - North London Forever" />
 
 ### 🔴⚪ Arsenal supporter | Software Engineering Student
 
