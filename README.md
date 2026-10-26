@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./wallpaperswide.com-spectrum-of-the-sky-wallpaper-2560x1440.jpg" width="100%" alt="Arsenal - North London Forever" />
+<img src="./theme_background.jpg" width="100%" alt="Arsenal - North London Forever" />
 ### 🔴⚪ Arsenal 
 </div>
 ---
