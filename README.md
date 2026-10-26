@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="./theme_background.jpg" width="100%" alt="Arsenal - North London Forever" />
-### 🔴⚪ Arsenal 
+🔴⚪ Arsenal 
 </div>
 
 ### About Me
@@ -44,5 +44,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <div align="center">
-**COYG — Come On You Gunners!**
+COYG 🔴⚪ — Come On You Gunners!
 </div>
