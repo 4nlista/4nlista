@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./4b9db857-5c5d-4b89-b9d2-20c9ef32628f.png" width="100%" alt="Arsenal - North London Forever" />
+<img src="./arsenal.jpg" width="100%" alt="Arsenal - North London Forever" />
 
 ### 🔴⚪ Arsenal supporter | Software Engineering Student
 
