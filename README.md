@@ -1,9 +1,5 @@
 
 <div align="center">
-<img src="./theme_background.jpg" width="100%" alt="Arsenal - North London Forever" />
-🔴⚪ Arsenal 
-</div>
-
 ### About Me
 
 - Software Engineering.
