@@ -1,5 +1,4 @@
 
-<div align="center">
 ### About Me
 
 - Software Engineering.
